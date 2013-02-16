@@ -3,7 +3,7 @@
 rebecca.todict_bpmappers
 ===============================
 
-``rebecca.todict_bpmappers`` is implementation for `rebecca.todict<http://pypi.python.org/pypi/rebecca.todict/>`_
+``rebecca.todict_bpmappers`` is implementation for `rebecca.todict <http://pypi.python.org/pypi/rebecca.todict/>`_
 using `bpmappers <http://pypi.python.org/pypi/bpmappers/>`_
 
 INSTALL
