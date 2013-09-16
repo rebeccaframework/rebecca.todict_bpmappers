@@ -6,8 +6,8 @@ def includeme(config):
 
 
 def mapper_adapter(mapper):
-    def todict(request, cls):
-        return mapper(cls).as_dict()
+    def todict(request, obj):
+        return mapper(obj).as_dict()
     return todict
 
 
